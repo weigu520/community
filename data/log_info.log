@@ -1,0 +1,7 @@
+2020-04-18 22:48:27,053 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:50] Starting LoggerTests on DESKTOP-CENDS1V with PID 1252 (started by weigu in G:\community)
+2020-04-18 22:48:27,055 INFO [main] c.n.c.LoggerTests [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2020-04-18 22:48:29,005 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-18 22:48:29,215 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2020-04-18 22:48:29,448 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:59] Started LoggerTests in 2.804 seconds (JVM running for 3.612)
+2020-04-18 22:48:29,635 INFO [main] c.n.c.LoggerTests [LoggerTests.java:31] info Log
+2020-04-18 22:48:29,643 INFO [Thread-3] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
